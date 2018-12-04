@@ -7,5 +7,5 @@ Concept of sorting came into existence, making it easier for everyone to arrange
 # Prim's Minimum Spanning Tree (MST) Algorithm
 ![Alt Text](https://github.com/ofuen/AlgorithmSorts/blob/master/screenshot/Prim.gif)
 ***
-# Python program for implementation of Selection Sort Algorithm
+# Implementation of Selection Sort Algorithm
  ![Alt Text](https://github.com/ofuen/AlgorithmSorts/blob/master/screenshot/Selection.gif)
