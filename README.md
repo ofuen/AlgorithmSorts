@@ -1,9 +1,9 @@
 # 🐍 AlgorithmSorts ↕️
 Concept of sorting came into existence, making it easier for everyone to arrange data 
 ***
-|  | Algorithm |
+|  Algorithm |
 | --- | --- |
-|  | ![Alt Text](https://github.com/ofuen/AlgorithmSorts/blob/master/screenshot/Kruskal.gif) |
+|  ![Alt Text](https://github.com/ofuen/AlgorithmSorts/blob/master/screenshot/Kruskal.gif) |
 ***
 | Python | Algorithm |
 | --- | --- |
