@@ -1,11 +1,11 @@
 # 🐍 AlgorithmSorts ↕️
 Concept of sorting came into existence, making it easier for everyone to arrange data 
 ***
-# Algorithm
+# Kruskal's Algorithm
 ![Alt Text](https://github.com/ofuen/AlgorithmSorts/blob/master/screenshot/Kruskal.gif)
 ***
-# Algorithm
+# Prim's Minimum Spanning Tree (MST) Algorithm
 ![Alt Text](https://github.com/ofuen/AlgorithmSorts/blob/master/screenshot/Prim.gif)
 ***
-# Algorithm
+# Python program for implementation of Selection Sort Algorithm
  ![Alt Text](https://github.com/ofuen/AlgorithmSorts/blob/master/screenshot/Selection.gif)
